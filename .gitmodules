@@ -37,3 +37,6 @@
 [submodule "src/nats-release"]
 	path = src/nats-release
 	url = https://github.com/cloudfoundry/nats-release
+[submodule "src/routing-release"]
+	path = src/routing-release
+	url = https://github.com/cloudfoundry-incubator/cf-routing-release
